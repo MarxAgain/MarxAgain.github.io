@@ -1,6 +1,6 @@
 # MAGA Is Dead
 
-Finally. From Reagan to Clinton to Trump, “MAGA” has always been a scam. What we actually need is MAMA: Make America Marxist Again. For generations, we’ve been systematically deceived about the nature of Marxism, as well as capitalism, which as a dogmatic orthodoxy has become our state-imposed national religion. But people are waking up, refusing to bow down to Mammon and billionaire demigods. This website aims to be an open-source, community repository of information exposing the truth.
+Finally. From Reagan to Clinton to Trump, “MAGA” has always been a scam. Now it's MAMA time: Make America Marxist Again. For generations, we’ve been systematically deceived about the nature of Marxism, as well as capitalism, which as a dogmatic orthodoxy has become our state-imposed national religion. But people are waking up, refusing to bow down to Mammon and billionaire demigods. This website aims to be an open-source, community repository of information exposing the truth.
 
 The truth is that America’s catastrophically failing economy needs radical change, and elites like the Epstein class are the problem. Not immigrants. Not transgender people. Not socialists and other “radical leftists.” Not China. Indeed, China has achieved by far the greatest economy in human history, not because they’ve been ripping off America, but despite *America’s* attempts at ripping off *them* and other developing nations. Economists regard China’s ascendance as an economic miracle, but it’s not a miracle. It’s Marxism.
 
@@ -24,9 +24,31 @@ Marxism insists on the undeniable reality that an economy premised on growing pr
 
 This alienation is exactly what Jesus was talking about, when he said that a camel passing through the eye of a needle would be easier than a rich person entering the Kingdom of God. And what 1 Timothy means in stating that the love of money causes all different kinds of evil. In antiquity, the rich experienced comfortable alienation, and lost their souls as a result. In modernity, the rich still experience comfortable alienation, still forfeit their souls, but through capitalism also bring their alienation upon us all.
 
-To be fair, capitalist orthodoxy asserts that capitalism is the only workable mode of production for modern times, because humans are too selfish and stupid for a better alternative to be sustainable. They blame all the harms of capitalism on human nature, so that capitalism can be viewed as purely good on account of funnelling dysfunctional human nature into production and profit generation. But that's exactly the problem. Capitalism treats human nature as subhuman, except when paired with wealth or power. The vast majority of people are not allowed to lead properly human lives, but are relegated to the “job market” for beasts who labor and consume and reproduce (employers often treat their pets with more dignity than their employees). At the same time, the tiny minority of political and economic elites who control our lives have no idea what human nature is, since they have dehumanized themselves and everyone else in their relentless pursuit of profits and power. These elites, keeping to themselves, are the blind leading the blind. They don't dare get too close with ordinary humans.
+To be fair, capitalist orthodoxy asserts that capitalism is the only workable mode of production for modern times, because humans are too selfish and stupid for a better alternative to be sustainable. They blame all the harms of capitalism on human nature, so that capitalism can be viewed as purely good on account of funnelling dysfunctional human nature into production and profit generation. But that's exactly the problem. Capitalism treats human nature as subhuman, except when paired with wealth or power, or when “managed” by those with wealth and power. The vast majority of people are not allowed to lead properly human lives, but are relegated to the “job market” for beasts who labor and consume and reproduce (well, employers usually treat their pets with more human dignity than their employees). At the same time, the tiny minority of political and economic elites who control our lives have no idea what human nature really is, since they have dehumanized themselves and everyone else in their relentless pursuit of profits and power. These elites, keeping to themselves, are the blind leading the blind. They don't dare get too close with ordinary humans.
 
 Capitalism can only seem like a good solution when we have lost ourselves in the relentless storm, but Marxism reminds us that humans are freaking awesome when we come together, value one another, trust one another, support one another, and build authentic community together. The alternative to capitalism is community, and the more we build that, the weaker capitalism will become, as *we* are the energy the storm must feed upon.
 
-## Why Not Call It Something Else?
+## Isn't This Socialism or Communism?
 
+Yes and no. Marxism is not the same as socialism or communism, which is crucial to understand because, as noted above, our ruling *capitalists* are actually Marxists of a kind (well, some of them are probably also neo-feudalists). Marxism is an evolving framework for understanding the complex dynamical relationship between humans and our economic conditions.
+
+It just so happens that when people understand their situation, they try to improve it, and socialism is what we call our efforts to improve on the horrific situation we find ourselves in with capitalism. Just like Marxism, socialism isn't one thing, but a diverse living tradition that learns, grows, and improves over time, with plenty of intramural disagreement and debate.
+
+Communism is the goal of achieving an ideal future for humanity: A future where we have moved beyond the need for governance by means of violence and coercion, and where everyone is maximally free to live a fulfilling life. Put simply, communism aims to build a future in which we maximally enjoy both negative liberty *and* positive liberty. For more on communism, just ask your nearest leftist Star Trek fan (IYKYK).
+
+## An Emergency Situation
+
+
+
+## Resources / Links
+
+### [News](/news) 🔗
+
+### Articles
+
++ [“Karl Marx Was Right: Workers Are Systematically Exploited Under Capitalism” [Jacobin]](https://jacobin.com/2022/06/karl-marx-labor-theory-of-value-ga-cohen-economics)
+
+### Economists
+
++ [Richard D. Wolff](https://www.rdwolff.com/about)
++ [Clara E. Mattei](https://www.claramattei.com/about)

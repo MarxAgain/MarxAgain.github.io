@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 # MAGA Is Dead
 
 Finally. From Reagan to Clinton to Trump, “MAGA” has always been a scam. Now it's MAMA time: Make America Marxist Again. For generations, we’ve been systematically deceived about the nature of Marxism, as well as capitalism, which as a dogmatic orthodoxy has become our state-imposed national religion. But people are waking up, refusing to bow down to Mammon and billionaire demigods. This website aims to be an open-source, community repository of information exposing the truth.
@@ -38,15 +41,15 @@ Communism is the goal of achieving an ideal future for humanity: A future where 
 
 ## An AI-mergency Situation
 
-Economists, including Marx, have long noticed how technological advancement drives increasing productivity over time, and increasing productivity in turn drives increasing wages. Of course, if you project these trends out, eventually we should arrive at a 15-hour workweek, as economist John Maynard Keynes in 1930 [predicted that we would by 2030](https://www.marxists.org/reference/subject/economics/keynes/1930/our-grandchildren.htm), just a few years from now; and at some point, we should achieve a post-scarcity economy where everyone's needs are *easily* being met, even if there aren't enough jobs for everyone, even if most people don't have a job. Such a post-scarcity economy *should* be able to look toward the economic horizon and see the communist ideal rising.
+Economists, including Marx, have long noticed how technological advancement drives increasing productivity over time, and increasing productivity in turn drives increasing wages. Of course, if you project these trends out, eventually we should arrive at a 15-hour workweek, as economist John Maynard Keynes in 1930 [predicted that we would by 2030](https://www.marxists.org/reference/subject/economics/keynes/1930/our-grandchildren.htm), just a few years from now; and at some point, we should achieve a post-scarcity economy where everyone's needs are *easily* being met, even if there aren't enough jobs for everyone, even if most people don't have a job. Folks in such a post-scarcity era *should* be looking toward the economic horizon and seeing the communist ideal rising.
 
 Obviously, something has gone terribly wrong, and it's rapidly getting worse. Keeping in mind the human tendency to raise the bar and move the goalposts, we have already achieved post-scarcity conditions by historical standards, yet our needs are increasingly being neglected. Wages have remained stagnant for decades. The cost of living just keeps exploding. Social safety nets face relentless cutbacks. War continues erupting despite being utterly obsolete.
 
-Amid the richest and most productive economic conditions in human history, the average person can do literally *everything* right, yet still end up destitute. Living is now unaffordable. Good mental health has become a status symbol (to say nothing of physical health).
+Amid the richest and most productive economic conditions in human history, the average person can do literally *everything* right, yet still end up destitute. Living is now unaffordable. Understandably, then, Good mental health has become a status symbol (to say nothing of physical health).
 
-What has gone wrong is simply that capitalism doesn't work. It is defective by design, structurally unable to deliver as promised,  incessantly undercutting community and individual liberty, which are the very conditions required for any society to flourish.
+What has gone wrong is simply that capitalism doesn't work. It is defective by design, structurally unable to deliver as promised,  incessantly undercutting community and individual liberty, which are the very conditions required for any society to flourish. <!-- The very basis of capitalism is -->
 
-
+<!-- Although artificial intelligence (AI) is overhyped and may never reach parity with human intelligence (HI?), AI does seem poised to increase productivity at historically unprecedented rates and with unprecedented , perhaps over an unprecedented  of time, likely leading to a protracted era of economic whiplash. And the gap between -->
 
 
 

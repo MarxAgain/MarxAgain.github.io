@@ -1,13 +1,13 @@
 # MAGA Is Dead
 
 <details>
-    <summary>Navigation</summary>
+<summary>Navigation</summary>
 
-    [Top](#maga-is-dead)
-    [What Is Marxism?](#what-is-marxism)
-    [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-    [An AI-mergency Situation](#an-ai-mergency-situation)
-    [Resources / Links](#resources--links)
+- [Top](#maga-is-dead)
+- [What Is Marxism?](#what-is-marxism)
+- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
+- [An AI-mergency Situation](#an-ai-mergency-situation)
+- [Resources / Links](#resources--links)
     
 </details>
 
@@ -24,13 +24,14 @@ Like hierarchs from two denominations of the same hypocritical religion, Republi
 ## What Is Marxism?
 
 <details>
-    <summary>Navigation</summary>
+<summary>Navigation</summary>
 
-    [Top](#maga-is-dead)
-    [What Is Marxism?](#what-is-marxism)
-    [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-    [An AI-mergency Situation](#an-ai-mergency-situation)
-    [Resources / Links](#resources--links)
+- [Top](#maga-is-dead)
+- [What Is Marxism?](#what-is-marxism)
+- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
+- [An AI-mergency Situation](#an-ai-mergency-situation)
+- [Resources / Links](#resources--links)
+    
 </details>
 
 In short, economic meteorology.
@@ -52,13 +53,14 @@ Capitalism can only seem like a good solution when we have lost ourselves in the
 ## Isn't This Socialism or Communism?
 
 <details>
-    <summary>Navigation</summary>
+<summary>Navigation</summary>
 
-    [Top](#maga-is-dead)
-    [What Is Marxism?](#what-is-marxism)
-    [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-    [An AI-mergency Situation](#an-ai-mergency-situation)
-    [Resources / Links](#resources--links)
+- [Top](#maga-is-dead)
+- [What Is Marxism?](#what-is-marxism)
+- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
+- [An AI-mergency Situation](#an-ai-mergency-situation)
+- [Resources / Links](#resources--links)
+    
 </details>
 
 Yes and no. Marxism is not the same as socialism or communism, which is crucial to understand because, as noted above, our ruling *capitalists* are actually Marxists of a kind (well, some of them are probably also neo-feudalists). Marxism is an evolving framework for understanding the complex dynamical relationship between humans and our economic conditions.
@@ -70,13 +72,14 @@ Communism is the goal of achieving an ideal future for humanity: A future where 
 ## An AI-mergency Situation
 
 <details>
-    <summary>Navigation</summary>
+<summary>Navigation</summary>
 
-    [Top](#maga-is-dead)
-    [What Is Marxism?](#what-is-marxism)
-    [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-    [An AI-mergency Situation](#an-ai-mergency-situation)
-    [Resources / Links](#resources--links)
+- [Top](#maga-is-dead)
+- [What Is Marxism?](#what-is-marxism)
+- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
+- [An AI-mergency Situation](#an-ai-mergency-situation)
+- [Resources / Links](#resources--links)
+    
 </details>
 
 Economists, including Marx, have long noticed how technological advancement drives increasing productivity over time, and increasing productivity in turn drives increasing wages. Of course, if you project these trends out, eventually we should arrive at a 15-hour workweek, as economist John Maynard Keynes in 1930 [predicted that we would by 2030](https://www.marxists.org/reference/subject/economics/keynes/1930/our-grandchildren.htm), just a few years from now; and at some point, we should achieve a post-scarcity economy where everyone's needs are *easily* being met, even if there aren't enough jobs for everyone, even if most people don't have a job. Folks in such a post-scarcity era *should* be looking toward the economic horizon and seeing the communist ideal rising.
@@ -94,13 +97,14 @@ What has gone wrong is simply that capitalism doesn't work. It is defective by d
 ## Resources / Links
 
 <details>
-    <summary>Navigation</summary>
+<summary>Navigation</summary>
 
-    [Top](#maga-is-dead)
-    [What Is Marxism?](#what-is-marxism)
-    [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-    [An AI-mergency Situation](#an-ai-mergency-situation)
-    [Resources / Links](#resources--links)
+- [Top](#maga-is-dead)
+- [What Is Marxism?](#what-is-marxism)
+- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
+- [An AI-mergency Situation](#an-ai-mergency-situation)
+- [Resources / Links](#resources--links)
+    
 </details>
 
 ### [News](news.md) 🔗

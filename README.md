@@ -3,11 +3,11 @@
 <details>
 <summary>Navigation</summary>
 
-- [Top](#maga-is-dead)
-- [What Is Marxism?](#what-is-marxism)
-- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-- [An AI-mergency Situation](#an-ai-mergency-situation)
-- [Resources / Links](#resources--links)
+- <a href="#maga-is-dead">Top</a>
+- <a href="#what-is-marxism">What Is Marxism?</a>
+- <a href="#isnt-this-socialism-or-communism">Isn't This Socialism or Communism?</a>
+- <a href="#an-ai-mergency-situation">An AI-mergency Situation</a>
+- <a href="#resources--links">Resources / Links</a>
     
 </details>
 
@@ -26,11 +26,11 @@ Like hierarchs from two denominations of the same hypocritical religion, Republi
 <details>
 <summary>Navigation</summary>
 
-- [Top](#maga-is-dead)
-- [What Is Marxism?](#what-is-marxism)
-- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-- [An AI-mergency Situation](#an-ai-mergency-situation)
-- [Resources / Links](#resources--links)
+- <a href="#maga-is-dead">Top</a>
+- <a href="#what-is-marxism">What Is Marxism?</a>
+- <a href="#isnt-this-socialism-or-communism">Isn't This Socialism or Communism?</a>
+- <a href="#an-ai-mergency-situation">An AI-mergency Situation</a>
+- <a href="#resources--links">Resources / Links</a>
     
 </details>
 
@@ -55,11 +55,11 @@ Capitalism can only seem like a good solution when we have lost ourselves in the
 <details>
 <summary>Navigation</summary>
 
-- [Top](#maga-is-dead)
-- [What Is Marxism?](#what-is-marxism)
-- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-- [An AI-mergency Situation](#an-ai-mergency-situation)
-- [Resources / Links](#resources--links)
+- <a href="#maga-is-dead">Top</a>
+- <a href="#what-is-marxism">What Is Marxism?</a>
+- <a href="#isnt-this-socialism-or-communism">Isn't This Socialism or Communism?</a>
+- <a href="#an-ai-mergency-situation">An AI-mergency Situation</a>
+- <a href="#resources--links">Resources / Links</a>
     
 </details>
 
@@ -74,11 +74,11 @@ Communism is the goal of achieving an ideal future for humanity: A future where 
 <details>
 <summary>Navigation</summary>
 
-- [Top](#maga-is-dead)
-- [What Is Marxism?](#what-is-marxism)
-- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-- [An AI-mergency Situation](#an-ai-mergency-situation)
-- [Resources / Links](#resources--links)
+- <a href="#maga-is-dead">Top</a>
+- <a href="#what-is-marxism">What Is Marxism?</a>
+- <a href="#isnt-this-socialism-or-communism">Isn't This Socialism or Communism?</a>
+- <a href="#an-ai-mergency-situation">An AI-mergency Situation</a>
+- <a href="#resources--links">Resources / Links</a>
     
 </details>
 
@@ -99,11 +99,11 @@ What has gone wrong is simply that capitalism doesn't work. It is defective by d
 <details>
 <summary>Navigation</summary>
 
-- [Top](#maga-is-dead)
-- [What Is Marxism?](#what-is-marxism)
-- [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
-- [An AI-mergency Situation](#an-ai-mergency-situation)
-- [Resources / Links](#resources--links)
+- <a href="#maga-is-dead">Top</a>
+- <a href="#what-is-marxism">What Is Marxism?</a>
+- <a href="#isnt-this-socialism-or-communism">Isn't This Socialism or Communism?</a>
+- <a href="#an-ai-mergency-situation">An AI-mergency Situation</a>
+- <a href="#resources--links">Resources / Links</a>
     
 </details>
 

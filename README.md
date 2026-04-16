@@ -86,7 +86,7 @@ Economists, including Marx, have long noticed how technological advancement driv
 
 Obviously, something has gone terribly wrong, and it’s rapidly getting worse. Keeping in mind the human tendency to raise the bar and move the goalposts, we have already achieved post-scarcity conditions by historical standards, yet our needs are increasingly being neglected. Wages have remained stagnant for decades. The cost of living just keeps exploding. Social safety nets face relentless cutbacks. War continues erupting despite being utterly obsolete.
 
-Amid the richest and most productive economic conditions in human history, the average person can do literally *everything* right, yet still end up destitute. Living is now unaffordable. Understandably, then, Good mental health has become a status symbol (to say nothing of physical health).
+Amid the richest and most productive economic conditions in human history, the average person can do literally *everything* right, yet still end up destitute. Living is now unaffordable. Understandably, then, good mental health has become a status symbol (to say nothing of physical health).
 
 What has gone wrong is simply that capitalism doesn’t work. It is defective by design, structurally unable to deliver as promised,  incessantly undercutting community and individual liberty, which are the very conditions required for any society to flourish.
 

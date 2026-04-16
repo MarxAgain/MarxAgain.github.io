@@ -2,11 +2,13 @@
 
 <details>
     <summary>Navigation</summary>
-    [Top](https://goo.com/maga-is-dead)
+
+    [Top](#maga-is-dead)
     [What Is Marxism?](#what-is-marxism)
     [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
     [An AI-mergency Situation](#an-ai-mergency-situation)
     [Resources / Links](#resources--links)
+    
 </details>
 
 Finally. From Reagan to Clinton to Trump, “MAGA” has always been a scam. Now it's MAMA time: Make America Marxist Again. For generations, we’ve been systematically deceived about the nature of Marxism, as well as capitalism, which as a dogmatic orthodoxy has become our state-imposed national religion. But people are waking up, refusing to bow down to Mammon and billionaire demigods. This website aims to be an open-source, community repository of information exposing the truth.
@@ -23,7 +25,8 @@ Like hierarchs from two denominations of the same hypocritical religion, Republi
 
 <details>
     <summary>Navigation</summary>
-    [Top](https://goo.com/maga-is-dead)
+
+    [Top](#maga-is-dead)
     [What Is Marxism?](#what-is-marxism)
     [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
     [An AI-mergency Situation](#an-ai-mergency-situation)
@@ -50,7 +53,8 @@ Capitalism can only seem like a good solution when we have lost ourselves in the
 
 <details>
     <summary>Navigation</summary>
-    [Top](https://goo.com/maga-is-dead)
+
+    [Top](#maga-is-dead)
     [What Is Marxism?](#what-is-marxism)
     [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
     [An AI-mergency Situation](#an-ai-mergency-situation)
@@ -67,7 +71,8 @@ Communism is the goal of achieving an ideal future for humanity: A future where 
 
 <details>
     <summary>Navigation</summary>
-    [Top](https://goo.com/maga-is-dead)
+
+    [Top](#maga-is-dead)
     [What Is Marxism?](#what-is-marxism)
     [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
     [An AI-mergency Situation](#an-ai-mergency-situation)
@@ -90,7 +95,8 @@ What has gone wrong is simply that capitalism doesn't work. It is defective by d
 
 <details>
     <summary>Navigation</summary>
-    [Top](https://goo.com/maga-is-dead)
+
+    [Top](#maga-is-dead)
     [What Is Marxism?](#what-is-marxism)
     [Isn't This Socialism or Communism?](#isnt-this-socialism-or-communism)
     [An AI-mergency Situation](#an-ai-mergency-situation)
